@@ -699,3 +699,7 @@ footer {
     display: none; }
   .header__hero h1 .hero-text--main {
     font-size: 40px; } }
+
+body{
+  padding: 0;
+}
