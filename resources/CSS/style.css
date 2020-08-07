@@ -649,7 +649,7 @@ footer {
   .about-section {
     height: 250vh; } }
 
-@media (max-width: 1000px) {
+@media (max-width: 1200px) {
   .header__hero h1 {
     font-size: 1rem; }
   .row .col-1-of-2 {
